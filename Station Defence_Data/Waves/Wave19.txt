@@ -1,0 +1,25 @@
+<wave>
+    <round1>
+		<time>0</time>
+		<SWARM>
+			<modifier>NONE</modifier>
+			<number>100</number>
+		</SWARM>
+	</round1>
+	
+	<round2>
+		<time>10</time>
+		<ARMORED>
+			<modifier>SHIELDED</modifier>
+			<number>20</number>
+		</ARMORED>
+	</round2>
+	
+	<round3>
+		<time>10</time>
+		<GENERIC>
+			<modifier>NONE</modifier>
+			<number>40</number>
+		</GENERIC>
+	</round3>
+</wave>

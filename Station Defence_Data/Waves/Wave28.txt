@@ -1,0 +1,17 @@
+<wave>
+   <round1>
+		<time>0</time>
+		<SPEEDY>
+			<modifier>SHIELDED</modifier>
+			<number>40</number>
+		</SPEEDY>
+	</round1>
+	
+	<round2>
+		<time>10</time>
+		<BOSS>
+		<modifier>SHIELDED</modifier>
+			<number>1</number>
+		</BOSS>
+	</round2>
+</wave>

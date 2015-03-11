@@ -1,0 +1,50 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\levelMaster.cs">
+    <Files>
+      <File FileName="Assets\Scripts\levelMaster.cs" Line="163" Column="1" />
+      <File FileName="Assets\Scripts\IsoMovementCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\aoeturret.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\turret.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Wave.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\rocketturret.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\rocket.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\rocketexplosion.cs" Line="1" Column="1" />
+      <File FileName="c:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Waves\Wave15.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="AstarPathfindingProject" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="AI" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Scripts" expanded="True">
+              <Node name="levelMaster.cs" selected="True" />
+            </Node>
+            <Node name="Waves" expanded="True" />
+          </Node>
+          <Node name="Assembly-CSharp-Editor" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\levelMaster.cs" line="159" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Scripts\levelMaster.cs" line="367" offsetX="858" offsetY="5490" expression="g" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

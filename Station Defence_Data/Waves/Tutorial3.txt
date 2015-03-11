@@ -1,0 +1,9 @@
+<wave>
+	<round1>
+		<time>0</time>
+		<SPEEDY>
+			<modifier>NONE</modifier>
+			<number>2</number>
+		</SPEEDY>
+	</round1>
+</wave>

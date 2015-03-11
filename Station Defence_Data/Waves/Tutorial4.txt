@@ -1,0 +1,9 @@
+<wave>
+	<round1>
+		<time>0</time>
+		<GENERIC>
+			<modifier>SHIELDED</modifier>
+			<number>2</number>
+		</GENERIC>
+	</round1>
+</wave>

@@ -1,0 +1,9 @@
+<wave>
+	<round1>
+		<time>0</time>
+		<BOSS>
+			<modifier>NONE</modifier>
+			<number>10</number>
+		</BOSS>
+	</round1>
+</wave>

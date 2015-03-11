@@ -1,0 +1,590 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dumx.dll 9.18.13.697]
+    Renderer: NVIDIA GeForce 9600 GT
+    Vendor:   NVIDIA
+    VRAM:     997 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\JsonFx.Json.dll (this message is harmless)
+Loading C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\JsonFx.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\NGUI.dll (this message is harmless)
+Loading C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\NGUI.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\System.Core.dll (this message is harmless)
+GA initialized, waiting for events..
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<CheckInternetConnectivity>c__Iterator15:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Settings.cs:206)
+ 
+(Filename: C Line: 0)
+
+GameAnalytics: Queue submit started
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+GA_Queue:ForceSubmit() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Queue.cs:175)
+<SubmitQueue>c__Iterator12:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Queue.cs:156)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:62)
+GA_GameObjectManager:RunCoroutine(IEnumerator) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_GameObjectManager.cs:13)
+GA:RunCoroutine(IEnumerator, Func`1) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:158)
+GA:RunCoroutine(IEnumerator) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:145)
+<CheckInternetConnectivity>c__Iterator15:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Settings.cs:214)
+ 
+(Filename: C Line: 0)
+
+GameAnalytics: Submission queue started.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<CheckInternetConnectivity>c__Iterator15:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Settings.cs:215)
+ 
+(Filename: C Line: 0)
+
+GA URL: http://api.gameanalytics.com/1/16ffab2c4e5251448b9e1c28c19cb0ef/quality
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:280)
+ 
+(Filename: C Line: 0)
+
+GA Submit: [{"build":"0.2","area":"TheMainMenu","event_id":"system:unity_wrapper","message":"0.4.6","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636"},{"build":"0.2","area":"TheMainMenu","event_id":"system:os","message":"Windows 7 Service Pack 1 (6.1.7601) 64bit","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636"},{"build":"0.2","area":"TheMainMenu","event_id":"system:processor_type","message":"Intel(R) Core(TM) i7 CPU 860 @ 2.80GHz","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636"},{"build":"0.2","area":"TheMainMenu","event_id":"system:gfx_name","message":"NVIDIA GeForce 9600 GT","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636"},{"build":"0.2","area":"TheMainMenu","event_id":"system:gfx_version","message":"Direct3D 9.0c [nvd3dumx.dll 9.18.13.697]","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636"}]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:281)
+ 
+(Filename: C Line: 0)
+
+GA Hash: 789b0f04b0001da36c0c49c61e758d7d
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:282)
+ 
+(Filename: C Line: 0)
+
+GA Result: {"status":"ok"}
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:302)
+ 
+(Filename: C Line: 0)
+
+UnloadTime: 7.720906 ms
+Scanning - Process took 164 ms to complete 
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:AstarLog(String) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:641)
+<ScanLoop>c__Iterator8:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:1576)
+AstarPath:Scan() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:1477)
+AstarPath:Awake() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:1064)
+ 
+(Filename: C Line: 0)
+
+System memory in use before: 83.0 MB.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 74.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 7684.
+Total: 9.155516 ms (FindLiveObjects: 0.312539 ms CreateObjectMapping: 0.229098 ms MarkObjects: 7.519256 ms  DeleteObjects: 0.623249 ms)
+
+Platform assembly: C:\Users\Owner\Desktop\StationDefence\Station Defence_Data\Managed\System.Xml.dll (this message is harmless)
+GA URL: http://api.gameanalytics.com/1/16ffab2c4e5251448b9e1c28c19cb0ef/design
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:280)
+ 
+(Filename: C Line: 0)
+
+GA Submit: [{"value":"0","event_id":"GA:LevelStarted","area":"TheMainMenu","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636","build":"0.2"}]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:281)
+ 
+(Filename: C Line: 0)
+
+GA Hash: 522ad350f3e46815610a3dc320dd2a97
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:282)
+ 
+(Filename: C Line: 0)
+
+GA Result: {"status":"ok"}
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:302)
+ 
+(Filename: C Line: 0)
+
+GA URL: http://api.gameanalytics.com/1/16ffab2c4e5251448b9e1c28c19cb0ef/user
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:280)
+ 
+(Filename: C Line: 0)
+
+GA Submit: [{"os_version":"Windows 7 Service Pack 1 (6.1.7601) 64bit","build":"0.2","os":"Windows","device":"Intel(R) Core(TM) i7 CPU 860 @ 2.80GHz (8188 MB)","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","sdk_version":"GA Unity SDK 0.4.6","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636","platform":"PC"}]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:281)
+ 
+(Filename: C Line: 0)
+
+GA Hash: e02af99d4974b4abbad9a2160cfcc176
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:282)
+ 
+(Filename: C Line: 0)
+
+GA Result: {"status":"ok"}
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:302)
+ 
+(Filename: C Line: 0)
+
+GA: Queue submit over
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+GA_Queue:Submitted(List`1, Boolean) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Queue.cs:256)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:307)
+ 
+(Filename: C Line: 0)
+
+GameAnalytics: Queue submit started
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+GA_Queue:ForceSubmit() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Queue.cs:175)
+<SubmitQueue>c__Iterator12:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Queue.cs:156)
+ 
+(Filename: C Line: 0)
+
+GA URL: http://api.gameanalytics.com/1/16ffab2c4e5251448b9e1c28c19cb0ef/design
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:280)
+ 
+(Filename: C Line: 0)
+
+GA Submit: [{"value":"1.242466","event_id":"GA:LevelStarted","area":"TheMainGame","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636","build":"0.2"},{"y":"0","z":"-20","event_id":"BreadCrumb:$Ship","area":"TheMainGame","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","build":"0.2","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636","x":"-20"},{"y":"0","z":"-20","event_id":"BreadCrumb:$Ship","area":"TheMainGame","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","build":"0.2","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636","x":"-20"},{"y":"0","z":"-20","event_id":"BreadCrumb:$Ship","area":"TheMainGame","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","build":"0.2","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636","x":"-20"},{"y":"0","z":"-20","event_id":"BreadCrumb:$Ship","area":"TheMainGame","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","build":"0.2","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636","x":"-20"},{"y":"0","z":"-20","event_id":"BreadCrumb:$Ship","area":"TheMainGame","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","build":"0.2","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636","x":"-20"},{"y":"0","z":"-20","event_id":"BreadCrumb:$Ship","area":"TheMainGame","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","build":"0.2","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636","x":"-20"},{"y":"0","z":"-20","event_id":"BreadCrumb:$Ship","area":"TheMainGame","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","build":"0.2","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636","x":"-20"},{"y":"0","z":"-20","event_id":"BreadCrumb:$Ship","area":"TheMainGame","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","build":"0.2","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636","x":"-20"},{"y":"0","z":"-20","event_id":"BreadCrumb:$Ship","area":"TheMainGame","session_id":"8a63b66c-adfb-46e9-99b1-9eb67cd8bc30","build":"0.2","user_id":"821073768480F5B49BF1CE8F778BC25FB0FFB636","x":"-20"}]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:281)
+ 
+(Filename: C Line: 0)
+
+GA Hash: 1524b68948aaf0c7d92a632741df0043
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:282)
+ 
+(Filename: C Line: 0)
+
+GA Result: {"status":"ok"}
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:302)
+ 
+(Filename: C Line: 0)
+
+GA: Queue submit over
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GA:Log(Object) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA.cs:165)
+GA_Queue:Submitted(List`1, Boolean) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Queue.cs:256)
+<Submit>c__Iterator13:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\GameAnalytics\Plugins\Framework\Scripts\GA_Submit.cs:307)
+ 
+(Filename: C Line: 0)
+
+Scanning - Process took 159 ms to complete 
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:AstarLog(String) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:641)
+<ScanLoop>c__Iterator8:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:1576)
+AstarPath:Scan() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:1477)
+levelMaster:Update() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\levelMaster.cs:269)
+ 
+(Filename: C Line: 0)
+
+Canceled path because a new one was requested
+GameObject: NormEnemy(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Pathfinding.Path:LogError(String) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\Path.cs:265)
+Seeker:StartPath(Path, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:420)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:404)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:391)
+enemy:myGetNewPath() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:203)
+enemy:Start() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:55)
+ 
+(Filename: C Line: 0)
+
+Canceled path because a new one was requested
+GameObject: NormEnemy(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Pathfinding.Path:LogError(String) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\Path.cs:265)
+Seeker:StartPath(Path, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:420)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:404)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:391)
+enemy:myGetNewPath() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:203)
+enemy:Start() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:55)
+ 
+(Filename: C Line: 0)
+
+Canceled path because a new one was requested
+GameObject: NormEnemy(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Pathfinding.Path:LogError(String) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\Path.cs:265)
+Seeker:StartPath(Path, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:420)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:404)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:391)
+enemy:myGetNewPath() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:203)
+enemy:Start() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:55)
+ 
+(Filename: C Line: 0)
+
+Canceled path because a new one was requested
+GameObject: NormEnemy(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Pathfinding.Path:LogError(String) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\Path.cs:265)
+Seeker:StartPath(Path, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:420)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:404)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:391)
+enemy:myGetNewPath() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:203)
+enemy:Start() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:55)
+ 
+(Filename: C Line: 0)
+
+Canceled path because a new one was requested
+GameObject: NormEnemy(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Pathfinding.Path:LogError(String) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\Path.cs:265)
+Seeker:StartPath(Path, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:420)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:404)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:391)
+enemy:myGetNewPath() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:203)
+enemy:Start() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:55)
+ 
+(Filename: C Line: 0)
+
+Canceled path because a new one was requested
+GameObject: NormEnemy(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Pathfinding.Path:LogError(String) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\Path.cs:265)
+Seeker:StartPath(Path, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:420)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:404)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:391)
+enemy:myGetNewPath() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:203)
+enemy:Start() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:55)
+ 
+(Filename: C Line: 0)
+
+Canceled path because a new one was requested
+GameObject: NormEnemy(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Pathfinding.Path:LogError(String) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\Path.cs:265)
+Seeker:StartPath(Path, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:420)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:404)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:391)
+enemy:myGetNewPath() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:203)
+enemy:Start() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:55)
+ 
+(Filename: C Line: 0)
+
+Canceled path because a new one was requested
+GameObject: NormEnemy(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Pathfinding.Path:LogError(String) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\Path.cs:265)
+Seeker:StartPath(Path, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:420)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:404)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:391)
+enemy:myGetNewPath() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:203)
+enemy:Start() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:55)
+ 
+(Filename: C Line: 0)
+
+Canceled path because a new one was requested
+GameObject: NormEnemy(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Pathfinding.Path:LogError(String) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\Path.cs:265)
+Seeker:StartPath(Path, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:420)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:404)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:391)
+enemy:myGetNewPath() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:203)
+enemy:Start() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:55)
+ 
+(Filename: C Line: 0)
+
+Canceled path because a new one was requested
+GameObject: NormEnemy(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Pathfinding.Path:LogError(String) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\Path.cs:265)
+Seeker:StartPath(Path, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:420)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate, Int32) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:404)
+Seeker:StartPath(Vector3, Vector3, OnPathDelegate) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AI\Seeker.cs:391)
+enemy:myGetNewPath() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:203)
+enemy:Start() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\Scripts\enemy.cs:55)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 7.00 ms Searched Nodes 1060 Path Length 54
+Path Number 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 1127 Path Length 55
+Path Number 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 5.00 ms Searched Nodes 1472 Path Length 60
+Path Number 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 356 Path Length 72
+Path Number 4
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 345 Path Length 59
+Path Number 5
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 4.00 ms Searched Nodes 1458 Path Length 55
+Path Number 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 2.00 ms Searched Nodes 930 Path Length 44
+Path Number 7
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 2.00 ms Searched Nodes 709 Path Length 43
+Path Number 8
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 3.00 ms Searched Nodes 1057 Path Length 73
+Path Number 9
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 3.00 ms Searched Nodes 741 Path Length 48
+Path Number 10
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 3.00 ms Searched Nodes 1060 Path Length 54
+Path Number 11
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 4.00 ms Searched Nodes 1127 Path Length 55
+Path Number 12
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 4.00 ms Searched Nodes 1472 Path Length 60
+Path Number 13
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 2.00 ms Searched Nodes 356 Path Length 72
+Path Number 14
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 345 Path Length 59
+Path Number 15
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 3.00 ms Searched Nodes 1458 Path Length 55
+Path Number 16
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 3.00 ms Searched Nodes 930 Path Length 44
+Path Number 17
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 3.00 ms Searched Nodes 709 Path Length 43
+Path Number 18
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 4.00 ms Searched Nodes 1057 Path Length 73
+Path Number 19
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+Path Completed : Computation Time 2.00 ms Searched Nodes 741 Path Length 48
+Path Number 20
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AstarPath:LogPathResults(Path) (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:674)
+<CalculatePaths>c__IteratorB:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2359)
+<CalculatePathsHandler>c__IteratorA:MoveNext() (at C:\Users\Owner\Documents\Sonny\University\Game Design Studio 2\station-defence - Copy (2)\StationDefence\Assets\AstarPathfindingProject\Core\AstarPath.cs:2192)
+ 
+(Filename: C Line: 0)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/Runtime/Misc/Player.cpp Line: 1503)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/Runtime/Misc/Player.cpp Line: 1642)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore

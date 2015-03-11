@@ -1,0 +1,23 @@
+<wave>
+    <round1>
+		<time>0</time>
+		<SWARM>
+			<modifier>NONE</modifier>
+			<number>100</number>
+		</SWARM>
+	</round1>
+	<round2>
+		<time>10</time>
+		<SWARM>
+			<modifier>NONE</modifier>
+			<number>100</number>
+		</SWARM>
+	</round2>
+	<round3>
+		<time>20</time>
+		<SWARM>
+			<modifier>NONE</modifier>
+			<number>100</number>
+		</SWARM>
+	</round3>
+</wave>
